@@ -4,33 +4,16 @@ layout: home
 nav_order: 1
 ---
 
-This is a _bare-minimum_ template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+[Neighbourhood](https://www.neighbourhood.pro) is a web application focused on creating stronger local communities by allowing users to offer or request help from their neighbours. Users can create and join `neighbourhoods` where they can issue requests or respond to other members.
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site _locally_. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+Our philosophy is focused on encouraging users (neighbors) to create meaningful relations with each other while spending as little time as necessary within the application.
 
-More specifically, the created site:
+The way it works is by leveraging a simple request-response loop which is based on several studies that highlight the importance of mutual help in forming strong communities. Why call a plumber when one of your neighbors might be proficient and willing to help?
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+> _Be ready to assist your neighbor at those times when physical proximity is important – either in an emergency, or when the assistance costs little and it would be silly to force the other person to go long distances for it (for example, in the United States, loaning a cup of sugar). (p. 136)_
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+Fischer CS (2004) _The Urban Experience_. 2nd ed. Belmont, CA: Wadsworth/Thomson Learning
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
-
-To get started with creating a site, simply:
-
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
-
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
+If you just want to get help from someone in your local community, just issue a request and someone will respond. Giving a helping hand is the best way to change from being a stranger to being a Neighbour!
 
 ---
-
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
-
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
