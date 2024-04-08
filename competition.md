@@ -16,5 +16,6 @@ Our content is curated by the administrator of each 'Neighbourhood', which also 
 | Available in all regions          |             |       X       |
 | Mobile friendly                   |      X      |       X       |
 | Easy to use UI                    |             |       X       |
+| Open Source                       |             |       X       |
 
 ---
