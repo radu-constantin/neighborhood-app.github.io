@@ -1,7 +1,8 @@
 ---
-title: Main Programming language
+title: Main programming language
 layout: default
 parent: Technical decisions
+nav_order: 1
 ---
 
 During the initial planning phase of 'Neighbourhood' we debated between using JavaScript (which we were already familiar with) or switching to TypeScript.
@@ -20,5 +21,4 @@ In order to make a decision we had to carefully weigh the pros and cons and see 
 - slower development due to having to define types and interfaces;
 - external packages need to have a corresponding type package in order to work correctly.
 
-Conclusion
 According to the above pros and cons JavaScript is simpler and faster if you want to quickly prototype a feature, but overall we decided that the extra safety features provided by TypeScript were worth the time investment required to learn it.
