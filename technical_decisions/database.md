@@ -5,7 +5,7 @@ parent: Technical decisions
 nav_order: 2
 ---
 
-The main decision we had to make in regards to our database was between SQL and NoSQL. Our aim for 'Neighbourhood' was to allow users to connect and and be able to help each other in an inutitive way, thus we needed a robust database solution capable of handling complex data relationships and scaling seamlessly as our user base grew.
+The main decision we had to make in regards to our database was between SQL and NoSQL. Our aim for 'Neighbourhood' was to allow users to connect and and be able to help each other in an inutitive way, thus we needed a robust database solution capable of handling complex data relationships while also being easy to adapt as our requirements changed.
 
 After evaluating various database options, including popular NoSQL databases like MongoDB, we ultimately decided to adopt PostgreSQL with Prisma due to the following reasons:
 
