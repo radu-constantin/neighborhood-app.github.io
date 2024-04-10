@@ -4,14 +4,17 @@ layout: default
 parent: Database and API
 ---
 
-In the process of designing the database we identified the following main entities:
+In the case of _Neighbourhood's_ development, the first thing that we started with was designing the database and identifying the main entities that interact with each other. Based on our requirements for the MVP, we came up with the following list:
 
 - Neighbourhood
 - User
-- Requests
-- Responses
+- Request
+- Response
 
-Based on these we've created the following initial schema:
+We then fleshed out these entities by chosing the properties that they should have.
+![Neighborhood Model](../assets/images/db_model.png)
+
+This is the initial schema we designed:
 ![Database ERD](../assets/images/neighborhood_erd.png)
 
 This schema met all of our requirements when we first started development, but as we've decided to add more features such as real-time notifications and location based search, the schema suffered some changes.
