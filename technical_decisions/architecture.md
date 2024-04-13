@@ -5,7 +5,7 @@ parent: Technical decisions
 nav_order: 2
 ---
 
-The backend was structured in three main layers, based on the principles of Service Oriented Architecture:
+Our backend is structured in three main layers, based on the principles of Service Oriented Architecture.
 
 ![Service Architecture](../assets/images/service_architecture.png)
 
