@@ -6,7 +6,7 @@ nav_order: 1
 
 [Neighbourhood](https://www.neighbourhood.pro) is a web application focused on fostering stronger communities by allowing users to offer or request help from their neighbours. Users can create and join <span style="color:#FF0054">neighbourhoods</span> where they can issue requests and offer help to other members.
 
-Our philosophy is focused on encouraging users (*neighbours*) to create meaningful relationships with each other while spending as little time as possible within the application.
+Our philosophy is focused on encouraging users (<span style="color:#FF0054">_neighbours_</span>) to create meaningful relationships with each other while spending as little time as possible within the application.
 
 The way it works is by leveraging a simple request-response loop, which is based on several studies that highlight the importance of mutual help in forming strong communities. Why call a plumber when one of your neighbors might be proficient and willing to help?
 
