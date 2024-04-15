@@ -5,4 +5,4 @@ has_children: true
 nav_order: 4
 ---
 
-In creating _Neighbourhood_ we realized the vital importance of database design and API structure. With meticulous planning, we crafted a robust database schema which met the needs of our application. At the same time, we prioritized building intuitive API endpoints in order to bridge the gap between front-end and back-end, while having a clear separation between the two.
+From the early stages of planning <span style="color:#FF0054">Neighbourhood</span>, we realized the vital importance of database design and API structure. With meticulous planning, we crafted a robust database schema which met the needs of our application. At the same time, we prioritized building a rich, intuitive API endpoints to bridge front-end and back-end.
