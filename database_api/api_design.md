@@ -4,8 +4,6 @@ layout: default
 parent: Database and API
 ---
 
-RE-WRITE!
-
 In developing the API for <span style="color:#FF0054">Neighbourhood</span>  we wanted to ensure that we adhere to REST[^1] principles.
 
 Leveraging these principles, we designed an API that implemented a logical structure. Through standardized endpoints we achieved a consistent and intuitive experience for users across different devices and platforms.
